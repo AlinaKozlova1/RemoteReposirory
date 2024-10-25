@@ -23,4 +23,5 @@ let isAlive = setInterval(function(){
     if (cactusLeft < 30 && cactusLeft > 0 && dinoTop >= 140)
         alert("GAME OVER")
 }, 10);
-//change something in the script by person1
+
+//change something in the script by person1 [branch dev]
