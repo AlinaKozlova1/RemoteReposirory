@@ -26,3 +26,4 @@ let isAlive = setInterval(function(){
 
 
 //some new information  
+//add some information from person3 [branch dev3]пш
